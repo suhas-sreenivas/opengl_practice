@@ -1,10 +1,10 @@
-﻿  Shader.cpp
-  Generating Code...
-  Compiling...
+﻿  Renderer.cpp
   Application.cpp
   Generating Code...
-LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\suhas\Documents\Visual Studio 2015\Projects\OpenGL\Debug\vc120.pdb'; linking object as if no debug info
+  Skipping... (no relevant changes detected)
+  VertexBuffer.cpp
+  VertexArray.cpp
+  Shader.cpp
+  IndexBuffer.cpp
   OpenGL.vcxproj -> C:\Users\suhas\Documents\Visual Studio 2015\Projects\OpenGL\Debug\OpenGL.exe
   OpenGL.vcxproj -> C:\Users\suhas\Documents\Visual Studio 2015\Projects\OpenGL\Debug\OpenGL.pdb (Partial PDB)
